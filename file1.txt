@@ -2,3 +2,4 @@ pierwszy plik
 stworzylem dla wspolpracy z github = tomecc
 https://github.com/tomecc/moja1nauka.git
 
+costam

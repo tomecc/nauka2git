@@ -1,1 +1,2 @@
 plik nr 3
+nowa linia w pliku 3
